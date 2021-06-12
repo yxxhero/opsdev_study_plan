@@ -9,8 +9,8 @@
 
 ## 参考
 1. [sre书籍](https://redbearder.github.io/The-Site-Reliability-Workbook-CHS/)
-2. (cgroup)[https://man7.org/linux/man-pages/man7/cgroups.7.html]
-3. (电子书仓库)[https://github.com/7-sevens/Developer-Books]
+2. [cgroup](https://man7.org/linux/man-pages/man7/cgroups.7.html)
+3. [电子书仓库](https://github.com/7-sevens/Developer-Books)
 
 
 
@@ -22,7 +22,7 @@ https://github.com/yxxhero/opsdev_study_plan/issues
 
 
 
-
-微信公众号：  
+## 联系
+微信公众号:
 
 <a href="https://www.aiopsclub.com" target="_blank"><img src="https://www.aiopsclub.com/images/wxqrcode.jpg" alt="devops" height="150" align="center"/></a>
