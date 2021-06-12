@@ -23,4 +23,4 @@
 
 
 微信公众号：
-<a href="https://www.aiopsclub.com" target="_blank"><img src="https://www.aiopsclub.com/images/wxqrcode.jpg" alt="devops" height="150" align="center"/></a
+<a href="https://www.aiopsclub.com" target="_blank"><img src="https://www.aiopsclub.com/images/wxqrcode.jpg" alt="devops" height="150" align="center"/></a>
